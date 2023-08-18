@@ -1,2 +1,3 @@
-# Write-up
-This repository contain all the write-ups I have done from the machines I have pwned. 
+## Video Walktrough
+
+https://www.youtube.com/channel/UCzbICf0S_Mp601rPNZdF52Q
